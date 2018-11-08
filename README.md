@@ -1,8 +1,8 @@
-# UNESCO-CLI-Gem
+# UNESCO-World-Heritage-Finder
 
-Welcome to your new gem! In this directory, you'll find the files you need to be able to package up your Ruby library into a gem. Put your Ruby code in the file `lib/unesco/cli/gem`. To experiment with that code, run `bin/console` for an interactive prompt.
+The 'UNESCO World Heritage Finder' was created to help you find any world heritage site listed in [UNESCO's website](http://whc.unesco.org/en/list/). You can pick which site you are interested in learning more about - maybe it will lead to your next travel destination!
 
-TODO: Delete this and the text above, and describe your gem
+![](http://luxurylaunches.com/wp-content/uploads/2013/03/most-expensive-holiday.jpg)
 
 ## Installation
 
