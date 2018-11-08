@@ -4,7 +4,7 @@ The 'UNESCO World Heritage Finder' was created to help you find any world herita
 
 ![](http://luxurylaunches.com/wp-content/uploads/2013/03/most-expensive-holiday.jpg)
 
-All content published by UNESCO is the property of UNESCO and is protected by copyright, trademark, and other intellectual property laws. Copyright © 1992 - 2018 UNESCO/World Heritage Centre. All rights reserved.
+All content published by UNESCO is the property of UNESCO and is protected by copyright, trademark, and other intellectual property laws (Copyright © 1992 - 2018 UNESCO/World Heritage Centre. All rights reserved)
 
 For more information on how to use the app, watch my [video]! Or read my [blog] for more info on how this CLI Gem was created.
 
