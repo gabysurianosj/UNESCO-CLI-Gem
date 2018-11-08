@@ -37,7 +37,7 @@ class Controller
         puts "\nType a valid integer or exit.".red
       end
     end
-    puts "\nI hope we were helpful. Safe travels!".cyan
+    puts "\nThank you for the visit! Knowledge is power, stay curious!".green
   end
 
 end
