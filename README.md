@@ -4,6 +4,10 @@ The 'UNESCO World Heritage Finder' was created to help you find any world herita
 
 ![](http://luxurylaunches.com/wp-content/uploads/2013/03/most-expensive-holiday.jpg)
 
+All content published by UNESCO is the property of UNESCO and is protected by copyright, trademark, and other intellectual property laws.
+
+For more information on how to use the app, watch my [video]! Or read my [blog] for more info on how this CLI Gem was created.
+
 ## Installation
 
 Add this line to your application's Gemfile:
@@ -20,15 +24,12 @@ Or install it yourself as:
 
     $ gem install unesco-cli-gem
 
-## Usage
+## Alternatively, you can:
 
-TODO: Write usage instructions here
-
-## Development
-
-After checking out the repo, run `bin/setup` to install dependencies. You can also run `bin/console` for an interactive prompt that will allow you to experiment.
-
-To install this gem onto your local machine, run `bundle exec rake install`. To release a new version, update the version number in `version.rb`, and then run `bundle exec rake release`, which will create a git tag for the version, push git commits and tags, and push the `.gem` file to [rubygems.org](https://rubygems.org).
+1. Clone the repo
+2. Run ```bundle install```
+3. Run ```bin/cli```
+4. Enjoy!
 
 ## Contributing
 
