@@ -2,7 +2,7 @@
 source "https://rubygems.org"
 
 # gem "rails"
-gem 'nokogiri', '1.6.6.2'
+gem "nokogiri", ">= 1.8.2"
 gem 'rake'
 gem 'pry'
 gem 'sanitize'
