@@ -1,6 +1,9 @@
+# A sample Gemfile
 source "https://rubygems.org"
 
-git_source(:github) {|repo_name| "https://github.com/#{repo_name}" }
-
-# Specify your gem's dependencies in unesco-cli-gem.gemspec
-gemspec
+# gem "rails"
+gem 'nokogiri', '1.6.6.2'
+gem 'rake'
+gem 'pry'
+gem 'sanitize'
+gem 'require_all'
