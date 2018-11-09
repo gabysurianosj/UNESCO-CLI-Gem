@@ -6,7 +6,7 @@ The 'UNESCO World Heritage Finder' was created to help you find any world herita
 
 The RSS file for the UNESCO sites is provided by UNESCO/WHC. Copyright © 1992 - 2018 UNESCO/World Heritage Centre. All rights reserved.
 
-For more information on how to use the app, watch my [video]! Or read my [blog] for more info on how this CLI Gem was created.
+For more information on how to use the app, watch my [video](https://www.youtube.com/watch?v=RyCXw7Kz7mQ&feature=youtu.be)! Or read my [blog](https://gabysurianosj.github.io/cli_gem_portfolio_project_unesco_world_heritage) for more info on how this CLI Gem was created.
 
 ## Installation
 
